@@ -1,6 +1,6 @@
 --Loader of Riq Hub Script!
 if game.PlaceId == 142823291 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/riqqjsss/Scripts/refs/heads/main/MM2.lua'))()
-elseif game.PlaceId == 13772394625 then
+elseif game.PlaceId == 13772394625 or game.PlaceId == 15234596844 or game.PlaceId == 14732610803 or game.PlaceID == 14915220621 or game.PlaceId == 15264892126 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/riqqjsss/Scripts/refs/heads/main/BL.lua'))()
 end
